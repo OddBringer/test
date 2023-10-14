@@ -1,12 +1,16 @@
-body {
-    font-size: 80px;
-    background: #954242;
+.main-title {
 }
-
-.black {
-    color: #000;
+.list {
 }
-
-.white {
-    color: #fff;
+.item {
+}
+.item-main {
+}
+.item-image {
+}
+.item-title {
+}
+.description {
+}
+.description-text {
 }
